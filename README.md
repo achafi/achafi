@@ -25,6 +25,6 @@
 
  <summary>:zap: Github stats</summary>
 
- <img align="center" src="https://github-readme-stats-git-master.achafi.vercel.app?username=achafi&show_icons=true&theme=radical" />
+ <img align="center" src="https://github-readme-stats-k4ik94stm.vercel.app?username=achafi&show_icons=true&theme=radical" />
 
 
