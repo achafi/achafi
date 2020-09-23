@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Assia CHAFI](https://achafi.github.io/myportfolio/about/).
 
-<details>
+
 - I'am enthusiastic double engineering school graduate. I worked at [Saagie](https://www.saagie.com/) as a Backend Python Developer Engineer. I also worked as junior data scientist at [La Matmut](https://www.matmut.fr/). 
 - I'am proactive and fast learning individual seeking an opportunity to work in the predictive modeling ﬁeld, including analytical and methodical skills to achieve business goals. 
 
@@ -15,16 +15,16 @@
 - 📫 How to reach me: assia.chafii93@gmail.com
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />   
-</details>
-<details>
-  <summary>Language and tools :</summary>
+
+ <summary>Language and tools :</summary>
 <br>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-</details>
-<details>
-  <summary>:zap: Github stats</summary>
-  ![Assia's github stats](https://github-readme-stats-git-master.achafi.vercel.app?username=achafi&show_icons=true&theme=radical)
-</details>
+
+
+ <summary>:zap: Github stats</summary>
+
+ <img align="center" src="https://github-readme-stats-git-master.achafi.vercel.app?username=achafi&show_icons=true&theme=radical" />
+
 
