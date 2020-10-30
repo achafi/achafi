@@ -19,7 +19,6 @@
 :zap: Github stats
 <img align="left" alt="Achafi's Github Stats" src="https://github-readme-stats.achafi.vercel.app/api?username=achafi&show_icons=true&hide_border=true" />
 
----
 :zap: Tech Used
 <br>
 
