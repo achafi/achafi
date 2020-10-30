@@ -19,6 +19,7 @@
 
 <br>
 :zap: Language and tools
+---
 
 <br>
 
@@ -40,11 +41,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="10%" height="10%" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="10%" height="10%" align="left"/>
 
-
 ---
 
-:zap: Github stats
 
+---
+<br>
+:zap: Github stats
 <img align="left" alt="Achafi's Github Stats" src="https://github-readme-stats.achafi.vercel.app/api?username=achafi&show_icons=true&hide_border=true" />
 
 
